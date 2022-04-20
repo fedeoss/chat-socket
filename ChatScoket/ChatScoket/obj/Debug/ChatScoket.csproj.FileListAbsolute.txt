@@ -1,0 +1,15 @@
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\bin\Debug\ChatScoket.exe.config
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\bin\Debug\ChatScoket.exe
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\bin\Debug\ChatScoket.pdb
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\obj\Debug\ChatScoket.csproj.AssemblyReference.cache
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\obj\Debug\MainWindow.g.cs
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\obj\Debug\App.g.cs
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\obj\Debug\ChatScoket_MarkupCompile.cache
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\obj\Debug\ChatScoket_MarkupCompile.lref
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\obj\Debug\MainWindow.baml
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\obj\Debug\ChatScoket.g.resources
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\obj\Debug\ChatScoket.Properties.Resources.resources
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\obj\Debug\ChatScoket.csproj.GenerateResource.cache
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\obj\Debug\ChatScoket.csproj.CoreCompileInputs.cache
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\obj\Debug\ChatScoket.exe
+C:\Users\federica.zani.ITT\Desktop\ChatScoket\ChatScoket\obj\Debug\ChatScoket.pdb
