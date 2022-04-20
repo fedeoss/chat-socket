@@ -7,14 +7,17 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <ListBox x:Name="lslboxMessaggi" HorizontalAlignment="Left" Height="338" Margin="44,54,0,0" VerticalAlignment="Top" Width="279"/>
-        <TextBox x:Name="txtIP" HorizontalAlignment="Left" Height="44" Margin="440,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="234"/>
-        <TextBox x:Name="txtMessaggio" HorizontalAlignment="Left" Height="44" Margin="440,270,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="234"/>
-        <TextBox x:Name="txtPorta" HorizontalAlignment="Left" Height="44" Margin="440,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="234"/>
-        <Button x:Name="btnInvia" Content="INVIA" HorizontalAlignment="Left" Height="38" Margin="501,341,0,0" VerticalAlignment="Top" Width="112" Click="btnInvia_Click" />
-        <Label Content="Inserire indirizzo IP" HorizontalAlignment="Left" Height="23" Margin="440,54,0,0" VerticalAlignment="Top" Width="153"/>
-        <Label Content="Inserire porta" HorizontalAlignment="Left" Height="27" Margin="440,132,0,0" VerticalAlignment="Top" Width="153"/>
-        <Label Content="Inserire messaggio" HorizontalAlignment="Left" Height="27" Margin="440,243,0,0" VerticalAlignment="Top" Width="153"/>
+        <Grid.Background>
+            <ImageBrush ImageSource="sfondochast.png"/>
+        </Grid.Background>
+        <ListBox x:Name="lslboxMessaggi" HorizontalAlignment="Left" Height="136" Margin="56,104,0,0" VerticalAlignment="Top" Width="258"/>
+        <TextBox x:Name="txtIP" HorizontalAlignment="Left" Height="29" Margin="501,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97"/>
+        <TextBox x:Name="txtMessaggio" HorizontalAlignment="Left" Height="103" Margin="501,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="225"/>
+        <TextBox x:Name="txtPorta" HorizontalAlignment="Left" Height="29" Margin="629,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="91"/>
+        <Button x:Name="btnInvia" Content="INVIA" HorizontalAlignment="Left" Height="38" Margin="554,331,0,0" VerticalAlignment="Top" Width="112" Click="btnInvia_Click" Background="#FFC749EC" />
+        <Label Content="Inserire indirizzo IP" HorizontalAlignment="Left" Height="23" Margin="492,82,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label Content="Inserire porta" HorizontalAlignment="Left" Height="27" Margin="629,82,0,0" VerticalAlignment="Top" Width="81"/>
+        <Label Content="Inserire messaggio" HorizontalAlignment="Left" Height="27" Margin="492,167,0,0" VerticalAlignment="Top" Width="153"/>
 
     </Grid>
 </Window>
